@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 64px;
+  border: 1px solid rgb(238, 232, 232);
+  padding: 18px;
+  position: fixed;
+  z-index: 1100;
+  top: 0px;
+  left: auto;
+  right: 0px;
+  background-color: white;
+  
+}
+.menu-bar{
+  font-size: 35px;
+  cursor: pointer;
+}
+.container{
+  padding-left: 300px;
+  
+}
+.container1{
+  margin-top: 40px;
+  
+}
+.main-div{
+  background-color: rgb(250, 250, 250);
+}
+.sub-div{
+  margin-bottom: 20px;
+}
+.main-div2{
+  background-color:white;
+  height: 700px;
+}
+.logo{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.button1{
+  border: none;
+  border-radius: 50px;
+  padding: 0;
+}
+.header-div2{
+  margin-left:  70rem;
+}
